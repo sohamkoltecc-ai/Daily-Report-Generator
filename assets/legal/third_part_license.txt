@@ -1,0 +1,126 @@
+THIRD-PARTY LICENSES
+
+Last Updated: August 8, 2026
+
+Daily Report is built using Flutter, Dart, and other third-party software libraries and packages.
+
+We are grateful to the developers and open-source communities who make these tools available.
+
+The third-party components included in or used by Daily Report are distributed under their respective licenses. These licenses apply to the corresponding third-party components and are separate from the proprietary license covering the original Daily Report software.
+
+1. FLUTTER
+
+Daily Report is built using the Flutter framework.
+
+Flutter and its associated components are provided under their applicable open-source licenses. Flutter-related license and attribution information is included with the Flutter SDK and the distributed application where applicable.
+
+Copyright: The Flutter Authors and contributors
+
+BSD 3-Clause License
+
+Copyright © The Flutter Authors and contributors.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+2. DART
+
+Daily Report is developed using the Dart programming language.
+
+The Dart SDK and associated components are distributed under their applicable open-source licenses, including the BSD 3-Clause License where applicable.
+
+Copyright: The Dart Authors and contributors
+
+BSD 3-Clause License
+
+Copyright © The Dart Authors and contributors.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+3. FLUTTER PACKAGES AND DEPENDENCIES
+
+Daily Report may use additional open-source packages available through the Dart and Flutter ecosystem.
+
+Third-party packages used by Daily Report may include the following, depending on the specific build and platform:
+
+- cupertino_icons
+- path_provider
+- pdf
+- printing
+- image_picker
+- url_launcher
+- table_calendar
+- intl
+- window_manager
+- shared_preferences
+- file_picker
+- file_selector
+
+The exact dependencies included in a particular version of Daily Report may vary depending on the application build, platform, and dependency versions.
+
+
+4. THIRD-PARTY COMPONENT NOTICE
+
+Daily Report does not claim ownership of third-party libraries, frameworks, packages, or other open-source components included in or used by the application.
+
+The proprietary Daily Report license applies only to the original Daily Report software and materials owned by the developer.
+
+Third-party components remain subject to their respective copyright notices and licenses.
+
+Nothing in the Daily Report proprietary license is intended to remove, restrict, or override rights granted by an applicable open-source license.
+
+
+5. COPYRIGHT AND ATTRIBUTION
+
+Copyright and attribution notices belonging to third-party developers must remain intact where required by the applicable license.
+
+Users and distributors must comply with the applicable license terms of each third-party component.
+
+We thank the open-source developers and communities whose work contributes to the functionality of Daily Report.
+
+
+6. COMPLETE LICENSE INFORMATION
+
+The third-party components included in Daily Report may have additional copyright notices, attribution requirements, and license terms.
+
+Where required by their respective licenses, applicable copyright notices and license texts are included with the application or made available through the application's Third-Party Licenses section.
+
+The exact third-party components and license information may vary between application versions and platforms.
+
+Users should refer to the license and attribution information distributed with the corresponding version of Daily Report for the applicable third-party notices and license terms.
+
+
+7. SEPARATE PROPRIETARY LICENSE
+
+The original software, source code, application interface, original designs, branding, graphics, documentation, and other original materials created for Daily Report remain protected by applicable intellectual-property laws and are governed by the Daily Report Proprietary License.
+
+The proprietary license does not apply to third-party components that are distributed under their own licenses.
+
+Where a third-party license grants rights that differ from the Daily Report Proprietary License, the applicable third-party license governs those third-party components.
+
+
+Developer / Publisher:
+SohamArts
+
+Application:
+Daily Report
+
+Version:
+1.26.8

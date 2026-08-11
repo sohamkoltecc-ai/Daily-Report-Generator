@@ -1,0 +1,215 @@
+TERMS OF USE
+
+Last Updated: August 7, 2026
+
+These Terms of Use ("Terms") govern your use of the Daily Report desktop application ("Daily Report", "the App", "we", "us", or "our").
+
+By installing, accessing, or using Daily Report, you agree to these Terms.
+
+If you do not agree with these Terms, you should not install, access, or use the application.
+
+
+1. ABOUT DAILY REPORT
+
+Daily Report is a productivity application designed to help users create, organize, manage, and generate daily reports and related project information.
+
+The application is provided for general productivity and record-keeping purposes.
+
+
+2. LICENSE TO USE THE APPLICATION
+
+Subject to these Terms and the applicable Proprietary License for Daily Report, you are granted a limited, non-exclusive, non-transferable, revocable license to install and use Daily Report for its intended purpose.
+
+This license permits you to use the application but does not transfer ownership of the software or any intellectual-property rights to you.
+
+All rights not expressly granted to you remain with the developer or publisher.
+
+The separate Daily Report Proprietary License and any applicable third-party licenses form part of the licensing terms governing the use of the application.
+
+
+3. ACCEPTABLE USE
+
+You agree to use Daily Report only for lawful purposes.
+
+You must not:
+
+- Use the application for unlawful activities.
+- Attempt to interfere with, damage, disable, or disrupt the application.
+- Attempt to gain unauthorized access to systems or data belonging to the developer or publisher.
+- Distribute unauthorized modified copies of the application.
+- Remove or alter copyright, trademark, license, attribution, or ownership notices.
+- Sell, sublicense, rent, lease, distribute, or commercially redistribute the application or unauthorized copies of it without written permission from the developer or publisher.
+- Attempt to circumvent technical restrictions or licensing mechanisms.
+- Use the application in a way that violates applicable law.
+
+Nothing in these Terms is intended to restrict rights that cannot legally be restricted.
+
+
+4. YOUR CONTENT
+
+You retain ownership of the content that you create or add to Daily Report, including:
+
+- Reports
+- Project information
+- Text
+- Images
+- Other files or materials that you provide
+
+You are responsible for the content you enter into the application.
+
+You are also responsible for ensuring that your content does not violate the rights of another person or organization.
+
+Daily Report does not claim ownership of your content solely because you create, store, or use that content within the application.
+
+
+5. ACCURACY OF REPORTS
+
+Daily Report provides tools for creating and organizing reports.
+
+The application does not independently verify the accuracy, completeness, or reliability of information entered by you.
+
+You are responsible for reviewing reports before using, sharing, printing, exporting, submitting, or relying on them.
+
+Daily Report should not be treated as a substitute for your own review or verification of information.
+
+
+6. DATA AND BACKUPS
+
+Because the current version may store your information locally on your device, you are responsible for maintaining appropriate backups of important data.
+
+We are not responsible for loss, corruption, alteration, or inability to access locally stored information caused by:
+
+- Hardware failure
+- Operating-system problems
+- Accidental deletion
+- Uninstallation
+- File corruption
+- Malware or viruses
+- User error
+- Device loss or damage
+- Storage failure
+- Other circumstances outside our reasonable control
+
+You should maintain independent backups of important reports, files, and other information.
+
+
+7. UPDATES
+
+We may release updates, improvements, bug fixes, security updates, or other changes to Daily Report.
+
+An update may:
+
+- Add features
+- Remove features
+- Change existing functionality
+- Improve performance
+- Fix bugs
+- Change system requirements
+- Modify compatibility with supported operating systems or hardware
+
+We do not guarantee that every existing feature will remain unchanged in future versions.
+
+
+8. AVAILABILITY
+
+We aim to keep Daily Report functional and reliable, but we do not guarantee that the application will always operate without errors, interruptions, bugs, defects, or compatibility issues.
+
+Availability and functionality may also be affected by your device, operating system, hardware, third-party software, or other factors outside our reasonable control.
+
+
+9. THIRD-PARTY COMPONENTS
+
+Daily Report may contain third-party and open-source components.
+
+Those components are subject to their own licenses, copyright notices, and terms.
+
+Nothing in these Terms or the Daily Report Proprietary License overrides rights granted under an applicable third-party or open-source license.
+
+Additional information about third-party components may be provided in the Third-Party Licenses section of the application.
+
+
+10. INTELLECTUAL PROPERTY
+
+Daily Report, including its original software, source code, interface, design, branding, graphics, logos, documentation, and other original materials, is protected by applicable intellectual-property laws.
+
+Except for content that you provide yourself and third-party components that are subject to their own licenses, these materials remain the property of the developer or publisher.
+
+No ownership rights in the original Daily Report software or materials are transferred to you through your use of the application.
+
+
+11. DISCLAIMER OF WARRANTIES
+
+To the maximum extent permitted by applicable law, Daily Report is provided on an "as is" and "as available" basis.
+
+We do not guarantee that:
+
+- The application will always be error-free.
+- The application will work on every computer or operating-system configuration.
+- The application will always be available.
+- All defects will be corrected.
+- The application will meet every particular user requirement.
+- Your data will never be lost, damaged, altered, or corrupted.
+- The application will remain compatible with all future operating systems, hardware, or third-party software.
+
+
+12. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the developer or publisher of Daily Report will not be liable for indirect, incidental, special, consequential, or similar damages arising from the use of, inability to use, or reliance upon the application.
+
+This may include loss of data, loss of business, loss of profits, interruption of work, loss of files, or other losses.
+
+Nothing in these Terms excludes, limits, or restricts liability that cannot legally be excluded, limited, or restricted under applicable law.
+
+
+13. TERMINATION
+
+You may stop using Daily Report at any time by uninstalling or removing the application.
+
+If you violate these Terms, the license granted to you may be terminated to the extent permitted by applicable law.
+
+Upon termination of the license, you must stop using unauthorized copies of the software and comply with any applicable requirements of the Daily Report Proprietary License.
+
+Termination does not affect rights or obligations that by their nature are intended to continue after termination.
+
+
+14. PRICING AND FUTURE FEATURES
+
+The current version of Daily Report may be provided free of charge.
+
+We may introduce paid features, premium editions, subscriptions, licenses, or other pricing models in future versions.
+
+Any such features or purchases will be subject to the pricing, purchase terms, and applicable conditions presented at the time of purchase.
+
+The availability of any particular feature is not guaranteed to remain unchanged in future versions.
+
+
+15. CHANGES TO THESE TERMS
+
+We may update these Terms when the application, its features, services, licensing arrangements, or applicable legal requirements change.
+
+The updated version will include a new "Last Updated" date.
+
+Your continued use of Daily Report after updated Terms become effective may constitute acceptance of the updated Terms to the extent permitted by applicable law.
+
+
+16. GOVERNING LAW
+
+These Terms are intended to be governed by the applicable laws of India, subject to applicable legal requirements and jurisdiction.
+
+Nothing in this section is intended to limit any mandatory rights or protections available to you under applicable law.
+
+
+17. CONTACT
+
+Developer / Publisher:
+
+SohamArts
+
+Email:
+
+dailyreport.support@gmail.com
+
+
+18. ACCEPTANCE
+
+By installing, accessing, or using Daily Report, you acknowledge that you have read, understood, and agreed to these Terms of Use.

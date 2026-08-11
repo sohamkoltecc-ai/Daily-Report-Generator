@@ -1,0 +1,128 @@
+DAILY REPORT — PROPRIETARY SOFTWARE LICENSE
+
+Copyright © 2026 SohamArts. All rights reserved.
+
+Last Updated: August 8, 2026
+
+
+1. GRANT OF LICENSE
+
+Subject to this Proprietary Software License and the applicable Daily Report Terms of Use, SohamArts grants you a limited, non-exclusive, non-transferable, revocable license to install and use the compiled version of Daily Report for its intended purpose.
+
+This license grants you the right to use the software. It does not transfer ownership of the software or any intellectual-property rights to you.
+
+This license applies only to the original Daily Report software and materials owned or controlled by SohamArts and does not replace or restrict rights granted under applicable third-party or open-source licenses.
+
+
+2. OWNERSHIP
+
+Daily Report and its original:
+
+- Source code
+- Object code
+- Application design
+- User interface
+- Graphics
+- Logos
+- Icons
+- Branding
+- Documentation
+- Other original materials
+
+are owned by or licensed to SohamArts and are protected by applicable intellectual-property laws.
+
+Except for third-party components and content provided by users, all rights, title, and interest in the original Daily Report software and materials remain with SohamArts or the applicable rights holder.
+
+
+3. RESTRICTIONS
+
+Except where expressly permitted by this license or applicable law, you may not:
+
+- Copy the software for redistribution.
+- Modify, adapt, or create derivative versions of the original Daily Report software.
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the software.
+- Extract or redistribute the source code.
+- Repackage the application for unauthorized distribution.
+- Sell, sublicense, or otherwise transfer the software to another person or organization without authorization.
+- Rent or lease the application without authorization.
+- Upload or distribute unauthorized copies of the application.
+- Remove or alter copyright, ownership, attribution, trademark, or license notices.
+- Use the Daily Report name, logos, branding, or other trademarks to represent an unauthorized version, modified version, or derivative application as an official product of SohamArts.
+- Circumvent technical restrictions, licensing mechanisms, or other measures used to control unauthorized use of the software.
+
+Nothing in this section is intended to restrict rights that cannot legally be restricted under applicable law or rights expressly granted by an applicable third-party or open-source license.
+
+
+4. PERSONAL AND INTERNAL USE
+
+You may install and use the application on devices for which you have appropriate authorization.
+
+The application may be used for personal, educational, professional, or internal business productivity purposes, provided that such use complies with this license and the applicable Terms of Use.
+
+If a particular distribution, purchase agreement, or other written agreement grants additional rights, those rights apply to the extent specified in that agreement.
+
+
+5. THIRD-PARTY COMPONENTS
+
+Daily Report may include third-party and open-source libraries, frameworks, packages, and other components.
+
+Those components are not necessarily covered by this proprietary license and remain subject to their respective copyright notices, licenses, and terms.
+
+Nothing in this license is intended to remove, restrict, or override rights granted by an applicable third-party or open-source license.
+
+Third-party copyright and license notices may be available through the application's Third-Party Licenses section.
+
+
+6. USER CONTENT
+
+This license does not grant SohamArts ownership of content created or provided by users through Daily Report.
+
+Users retain ownership of their own reports, project information, text, images, files, and other content, subject to any rights belonging to third parties.
+
+Users are responsible for ensuring that they have the necessary rights and permissions for content they add to the application.
+
+
+7. NO TRANSFER OF OWNERSHIP
+
+Installing, downloading, purchasing, or otherwise obtaining a copy of Daily Report does not give you ownership of the software, source code, trademarks, branding, or other intellectual property belonging to SohamArts.
+
+The license granted under this document is a license to use the software and is not a sale or transfer of ownership.
+
+
+8. TERMINATION
+
+This license remains effective until terminated.
+
+It may terminate automatically if you materially violate the terms of this license, the applicable Terms of Use, or other applicable licensing conditions, to the extent permitted by applicable law.
+
+Upon termination, you must stop using the software and stop distributing any unauthorized copies of the software.
+
+Termination does not affect any rights or obligations that, by their nature, are intended to continue after termination.
+
+
+9. DISCLAIMER
+
+Daily Report is provided subject to the disclaimers, warranties, and limitations of liability contained in the applicable Terms of Use.
+
+Nothing in this license creates any additional warranty or guarantee regarding the software.
+
+To the maximum extent permitted by applicable law, the software is provided on an "as is" and "as available" basis.
+
+
+10. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this license are reserved by SohamArts or the applicable rights holder.
+
+No rights are granted by implication, estoppel, or otherwise beyond those expressly stated in this license.
+
+
+11. ENTIRE LICENSE RELATIONSHIP
+
+This Proprietary Software License should be read together with the Daily Report Terms of Use, Privacy Policy, Disclaimer, and applicable Third-Party Licenses.
+
+Where a third-party or open-source license grants rights that differ from this proprietary license, the applicable third-party or open-source license governs the corresponding third-party component.
+
+Where applicable law provides rights that cannot legally be restricted by this license, those rights remain unaffected.
+
+
+Copyright © 2026 SohamArts. All rights reserved.

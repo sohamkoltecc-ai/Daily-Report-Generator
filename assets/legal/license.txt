@@ -1,0 +1,31 @@
+DAILY REPORT — SOFTWARE LICENSE
+
+Copyright © 2026 SohamArts. All rights reserved.
+
+Daily Report is proprietary software owned by SohamArts.
+
+Subject to the Daily Report Terms of Use and Proprietary Software License, you are granted a limited, non-exclusive, non-transferable license to install and use the application for its intended purpose.
+
+You may not copy, modify, reverse engineer, decompile, disassemble, redistribute, repackage, sublicense, sell, rent, lease, or create derivative versions of the original Daily Report software except where expressly permitted by applicable law or by written permission from SohamArts.
+
+The Daily Report name, branding, logos, graphics, interface, original software, documentation, and other original materials are protected by applicable intellectual-property laws and remain the property of SohamArts.
+
+Daily Report may contain third-party and open-source software components. Such components are governed by their respective licenses and are not necessarily covered by this proprietary license.
+
+Nothing in this license is intended to restrict rights granted by applicable third-party or open-source licenses or rights that cannot legally be restricted under applicable law.
+
+For complete terms, please refer to:
+
+- Daily Report Terms of Use
+- Daily Report Proprietary Software License
+- Daily Report Privacy Policy
+- Daily Report Disclaimer
+- Daily Report Third-Party Licenses
+
+Developer / Publisher:
+SohamArts
+
+Application:
+Daily Report
+
+Copyright © 2026 SohamArts. All rights reserved.

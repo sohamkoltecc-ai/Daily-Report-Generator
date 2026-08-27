@@ -1,24 +1,24 @@
 TERMS OF USE
 
-Last Updated: August 7, 2026
+Last Updated: August 27, 2026
 
-These Terms of Use ("Terms") govern your use of the Daily Report desktop application ("Daily Report", "the App", "we", "us", or "our").
+These Terms of Use ("Terms") govern your use of the Daily Report Generator desktop application ("Daily Report Generator", "the App", "we", "us", or "our").
 
-By installing, accessing, or using Daily Report, you agree to these Terms.
+By installing, accessing, or using Daily Report Generator, you agree to these Terms.
 
 If you do not agree with these Terms, you should not install, access, or use the application.
 
 
 1. ABOUT DAILY REPORT
 
-Daily Report is a productivity application designed to help users create, organize, manage, and generate daily reports and related project information.
+Daily Report Generator is a productivity application designed to help users create, organize, manage, and generate daily reports and related project information.
 
 The application is provided for general productivity and record-keeping purposes.
 
 
 2. LICENSE TO USE THE APPLICATION
 
-Subject to these Terms and the applicable Proprietary License for Daily Report, you are granted a limited, non-exclusive, non-transferable, revocable license to install and use Daily Report for its intended purpose.
+Subject to these Terms and the applicable Proprietary License for Daily Report Generator, you are granted a limited, non-exclusive, non-transferable, revocable license to install and use Daily Report Generator for its intended purpose.
 
 This license permits you to use the application but does not transfer ownership of the software or any intellectual-property rights to you.
 
@@ -29,7 +29,7 @@ The separate Daily Report Proprietary License and any applicable third-party lic
 
 3. ACCEPTABLE USE
 
-You agree to use Daily Report only for lawful purposes.
+You agree to use Daily Report Generator only for lawful purposes.
 
 You must not:
 
@@ -64,7 +64,7 @@ Daily Report does not claim ownership of your content solely because you create,
 
 5. ACCURACY OF REPORTS
 
-Daily Report provides tools for creating and organizing reports.
+Daily Report Generator provides tools for creating and organizing reports.
 
 The application does not independently verify the accuracy, completeness, or reliability of information entered by you.
 
@@ -112,14 +112,14 @@ We do not guarantee that every existing feature will remain unchanged in future 
 
 8. AVAILABILITY
 
-We aim to keep Daily Report functional and reliable, but we do not guarantee that the application will always operate without errors, interruptions, bugs, defects, or compatibility issues.
+We aim to keep Daily Report Generator functional and reliable, but we do not guarantee that the application will always operate without errors, interruptions, bugs, defects, or compatibility issues.
 
 Availability and functionality may also be affected by your device, operating system, hardware, third-party software, or other factors outside our reasonable control.
 
 
 9. THIRD-PARTY COMPONENTS
 
-Daily Report may contain third-party and open-source components.
+Daily Report Generator may contain third-party and open-source components.
 
 Those components are subject to their own licenses, copyright notices, and terms.
 
@@ -130,7 +130,7 @@ Additional information about third-party components may be provided in the Third
 
 10. INTELLECTUAL PROPERTY
 
-Daily Report, including its original software, source code, interface, design, branding, graphics, logos, documentation, and other original materials, is protected by applicable intellectual-property laws.
+Daily Report Generator, including its original software, source code, interface, design, branding, graphics, logos, documentation, and other original materials, is protected by applicable intellectual-property laws.
 
 Except for content that you provide yourself and third-party components that are subject to their own licenses, these materials remain the property of the developer or publisher.
 
@@ -139,7 +139,7 @@ No ownership rights in the original Daily Report software or materials are trans
 
 11. DISCLAIMER OF WARRANTIES
 
-To the maximum extent permitted by applicable law, Daily Report is provided on an "as is" and "as available" basis.
+To the maximum extent permitted by applicable law, Daily Report Generator is provided on an "as is" and "as available" basis.
 
 We do not guarantee that:
 
@@ -154,7 +154,7 @@ We do not guarantee that:
 
 12. LIMITATION OF LIABILITY
 
-To the maximum extent permitted by applicable law, the developer or publisher of Daily Report will not be liable for indirect, incidental, special, consequential, or similar damages arising from the use of, inability to use, or reliance upon the application.
+To the maximum extent permitted by applicable law, the developer or publisher of Daily Report Generator will not be liable for indirect, incidental, special, consequential, or similar damages arising from the use of, inability to use, or reliance upon the application.
 
 This may include loss of data, loss of business, loss of profits, interruption of work, loss of files, or other losses.
 
@@ -163,7 +163,7 @@ Nothing in these Terms excludes, limits, or restricts liability that cannot lega
 
 13. TERMINATION
 
-You may stop using Daily Report at any time by uninstalling or removing the application.
+You may stop using Daily Report Generator at any time by uninstalling or removing the application.
 
 If you violate these Terms, the license granted to you may be terminated to the extent permitted by applicable law.
 
@@ -174,7 +174,7 @@ Termination does not affect rights or obligations that by their nature are inten
 
 14. PRICING AND FUTURE FEATURES
 
-The current version of Daily Report may be provided free of charge.
+The current version of Daily Report Generator may be provided free of charge.
 
 We may introduce paid features, premium editions, subscriptions, licenses, or other pricing models in future versions.
 
@@ -189,7 +189,7 @@ We may update these Terms when the application, its features, services, licensin
 
 The updated version will include a new "Last Updated" date.
 
-Your continued use of Daily Report after updated Terms become effective may constitute acceptance of the updated Terms to the extent permitted by applicable law.
+Your continued use of Daily Report Generator after updated Terms become effective may constitute acceptance of the updated Terms to the extent permitted by applicable law.
 
 
 16. GOVERNING LAW
@@ -207,7 +207,7 @@ SohamArts
 
 Email:
 
-dailyreport.support@gmail.com
+sohamarts.support@gmail.com
 
 
 18. ACCEPTANCE

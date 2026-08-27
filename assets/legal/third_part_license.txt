@@ -1,16 +1,16 @@
 THIRD-PARTY LICENSES
 
-Last Updated: August 8, 2026
+Last Updated: August 27, 2026
 
-Daily Report is built using Flutter, Dart, and other third-party software libraries and packages.
+Daily Report Generator is built using Flutter, Dart, and other third-party software libraries and packages.
 
 We are grateful to the developers and open-source communities who make these tools available.
 
-The third-party components included in or used by Daily Report are distributed under their respective licenses. These licenses apply to the corresponding third-party components and are separate from the proprietary license covering the original Daily Report software.
+The third-party components included in or used by Daily Report Generator are distributed under their respective licenses. These licenses apply to the corresponding third-party components and are separate from the proprietary license covering the original Daily Report software.
 
 1. FLUTTER
 
-Daily Report is built using the Flutter framework.
+Daily Report Generator is built using the Flutter framework.
 
 Flutter and its associated components are provided under their applicable open-source licenses. Flutter-related license and attribution information is included with the Flutter SDK and the distributed application where applicable.
 
@@ -33,7 +33,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 2. DART
 
-Daily Report is developed using the Dart programming language.
+Daily Report Generator is developed using the Dart programming language.
 
 The Dart SDK and associated components are distributed under their applicable open-source licenses, including the BSD 3-Clause License where applicable.
 
@@ -56,7 +56,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 3. FLUTTER PACKAGES AND DEPENDENCIES
 
-Daily Report may use additional open-source packages available through the Dart and Flutter ecosystem.
+Daily Report Generator may use additional open-source packages available through the Dart and Flutter ecosystem.
 
 Third-party packages used by Daily Report may include the following, depending on the specific build and platform:
 
@@ -78,13 +78,13 @@ The exact dependencies included in a particular version of Daily Report may vary
 
 4. THIRD-PARTY COMPONENT NOTICE
 
-Daily Report does not claim ownership of third-party libraries, frameworks, packages, or other open-source components included in or used by the application.
+Daily Report Generator does not claim ownership of third-party libraries, frameworks, packages, or other open-source components included in or used by the application.
 
-The proprietary Daily Report license applies only to the original Daily Report software and materials owned by the developer.
+The proprietary Daily Report Generator license applies only to the original Daily Report Generator software and materials owned by the developer.
 
 Third-party components remain subject to their respective copyright notices and licenses.
 
-Nothing in the Daily Report proprietary license is intended to remove, restrict, or override rights granted by an applicable open-source license.
+Nothing in the Daily Report Generator proprietary license is intended to remove, restrict, or override rights granted by an applicable open-source license.
 
 
 5. COPYRIGHT AND ATTRIBUTION
@@ -123,4 +123,4 @@ Application:
 Daily Report
 
 Version:
-1.26.8
+1.26.9

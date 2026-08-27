@@ -12,11 +12,11 @@ class AboutPage extends StatelessWidget {
   // APP INFORMATION
   // ------------------------------------------------------------
 
-  static const String appVersion = "1.26.8";
-  static const String buildNumber = "1";
+  static const String appVersion = "1.26.9";
+  static const String buildNumber = "2";
 
   static const String developerName = "SohamArts";
-  static const String supportEmail = "dailyreport.support@gmail.com";
+  static const String supportEmail = "sohamarts.support@gmail.com";
   // support@sohamarts.com
   Future<void> _launchEmail(BuildContext context) async {
     // ------------------------------------------------------------

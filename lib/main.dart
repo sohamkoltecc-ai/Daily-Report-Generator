@@ -1,4 +1,4 @@
-import 'package:dailyreport/pages/splash_screen_page.dart';
+import 'package:dailyreport/pages/studio_splash.dart';
 import 'package:flutter/material.dart';
 import 'package:window_manager/window_manager.dart';
 
@@ -29,9 +29,9 @@ class ReportGeneratorApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      
+      themeMode: ThemeMode.dark,
       darkTheme: ThemeData.dark(),
-      home: const SplashScreen(),
+      home: const StudioSplah(),
     );
   }
 }

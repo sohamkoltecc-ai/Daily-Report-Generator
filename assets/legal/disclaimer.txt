@@ -1,30 +1,30 @@
 DISCLAIMER
 
-Last Updated: August 7, 2026
+Last Updated: August 27, 2026
 
-Daily Report is a productivity and record-keeping application intended to help users create, organize, manage, and generate daily reports and related project information.
+Daily Report Generator is a productivity and record-keeping application intended to help users create, organize, manage, and generate daily reports and related project information.
 
-The information contained in reports is entered or provided by the user. Daily Report does not independently verify, validate, or guarantee the accuracy, completeness, reliability, or suitability of user-generated information.
+The information contained in reports is entered or provided by the user. Daily Report Generator does not independently verify, validate, or guarantee the accuracy, completeness, reliability, or suitability of user-generated information.
 
 Users are responsible for reviewing their reports and ensuring that the information they contain is accurate and appropriate before using, submitting, sharing, printing, exporting, or relying upon them.
 
-Daily Report is a general productivity tool and is not intended to provide legal, financial, medical, professional, accounting, technical, or other specialized advice.
+Daily Report Generator is a general productivity tool and is not intended to provide legal, financial, medical, professional, accounting, technical, or other specialized advice.
 
 The application should not be relied upon as a substitute for advice or services from a qualified professional where professional advice is required.
 
-The developer does not guarantee that Daily Report will operate without errors, interruptions, defects, data loss, data corruption, security issues, or compatibility problems on every device, operating system, hardware configuration, or software environment.
+The developer does not guarantee that Daily Report Generator will operate without errors, interruptions, defects, data loss, data corruption, security issues, or compatibility problems on every device, operating system, hardware configuration, or software environment.
 
-Because the current version of Daily Report primarily stores application information locally on the user's device, users are responsible for maintaining appropriate backups of important reports, files, images, and other application data.
+Because the current version of Daily Report Generator primarily stores application information locally on the user's device, users are responsible for maintaining appropriate backups of important reports, files, images, and other application data.
 
 Users are also responsible for maintaining the security of their own devices and storage systems.
 
-Daily Report does not claim ownership of content created or provided by users. Users remain responsible for the content they create, store, import, export, share, or otherwise use through the application.
+Daily Report Generator does not claim ownership of content created or provided by users. Users remain responsible for the content they create, store, import, export, share, or otherwise use through the application.
 
 To the maximum extent permitted by applicable law, the developer or publisher is not responsible for losses, damages, data loss, business interruption, loss of profits, or other consequences resulting from the use of, inability to use, or reliance upon the application or information created using it.
 
 Nothing in this Disclaimer excludes, limits, or restricts any liability, right, or protection that cannot legally be excluded, limited, or restricted under applicable law.
 
-This Disclaimer should be read together with the Daily Report Terms of Use, Privacy Policy, Proprietary License, and applicable Third-Party Licenses.
+This Disclaimer should be read together with the Daily Report Generator Terms of Use, Privacy Policy, Proprietary License, and applicable Third-Party Licenses.
 
 
 Developer / Publisher:
@@ -33,4 +33,4 @@ SohamArts
 
 Email:
 
-dailyreport.support@gmail.com
+sohamarts.support@gmail.com

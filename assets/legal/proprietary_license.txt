@@ -1,13 +1,13 @@
-DAILY REPORT — PROPRIETARY SOFTWARE LICENSE
+DAILY REPORT Generator — PROPRIETARY SOFTWARE LICENSE
 
 Copyright © 2026 SohamArts. All rights reserved.
 
-Last Updated: August 8, 2026
+Last Updated: August 27, 2026
 
 
 1. GRANT OF LICENSE
 
-Subject to this Proprietary Software License and the applicable Daily Report Terms of Use, SohamArts grants you a limited, non-exclusive, non-transferable, revocable license to install and use the compiled version of Daily Report for its intended purpose.
+Subject to this Proprietary Software License and the applicable Daily Report Generator Terms of Use, SohamArts grants you a limited, non-exclusive, non-transferable, revocable license to install and use the compiled version of Daily Report for its intended purpose.
 
 This license grants you the right to use the software. It does not transfer ownership of the software or any intellectual-property rights to you.
 
@@ -16,7 +16,7 @@ This license applies only to the original Daily Report software and materials ow
 
 2. OWNERSHIP
 
-Daily Report and its original:
+Daily Report Generator and its original:
 
 - Source code
 - Object code
@@ -31,7 +31,7 @@ Daily Report and its original:
 
 are owned by or licensed to SohamArts and are protected by applicable intellectual-property laws.
 
-Except for third-party components and content provided by users, all rights, title, and interest in the original Daily Report software and materials remain with SohamArts or the applicable rights holder.
+Except for third-party components and content provided by users, all rights, title, and interest in the original Daily Report Generator software and materials remain with SohamArts or the applicable rights holder.
 
 
 3. RESTRICTIONS
@@ -64,7 +64,7 @@ If a particular distribution, purchase agreement, or other written agreement gra
 
 5. THIRD-PARTY COMPONENTS
 
-Daily Report may include third-party and open-source libraries, frameworks, packages, and other components.
+Daily Report Generator may include third-party and open-source libraries, frameworks, packages, and other components.
 
 Those components are not necessarily covered by this proprietary license and remain subject to their respective copyright notices, licenses, and terms.
 
@@ -102,7 +102,7 @@ Termination does not affect any rights or obligations that, by their nature, are
 
 9. DISCLAIMER
 
-Daily Report is provided subject to the disclaimers, warranties, and limitations of liability contained in the applicable Terms of Use.
+Daily Report Generator is provided subject to the disclaimers, warranties, and limitations of liability contained in the applicable Terms of Use.
 
 Nothing in this license creates any additional warranty or guarantee regarding the software.
 

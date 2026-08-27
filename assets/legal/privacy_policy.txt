@@ -1,17 +1,17 @@
 PRIVACY POLICY
 
-Last Updated: August 7, 2026
+Last Updated: August 27, 2026
 
-Daily Report ("Daily Report", "the App", "we", "us", or "our") respects your privacy. This Privacy Policy explains how information is handled when you use the Daily Report desktop application.
+Daily Report Generator ("Daily Report Generator", "the App", "we", "us", or "our") respects your privacy. This Privacy Policy explains how information is handled when you use the Daily Report Generator desktop application.
 
-Daily Report is designed primarily as a local productivity and record-keeping application. The current version does not require you to create an account or submit your reports to a cloud service operated by us.
+Daily Report Generator is designed primarily as a local productivity and record-keeping application. The current version does not require you to create an account or submit your reports to a cloud service operated by us.
 
-By using Daily Report, you acknowledge the practices described in this Privacy Policy.
+By using Daily Report Generator, you acknowledge the practices described in this Privacy Policy.
 
 
 1. INFORMATION WE HANDLE
 
-Depending on how you use Daily Report, the application may store information that you enter or select, including:
+Depending on how you use Daily Report Generator, the application may store information that you enter or select, including:
 
 - Your name
 - Project names and project information
@@ -27,16 +27,16 @@ You should avoid entering sensitive personal information into reports unless it 
 
 2. HOW YOUR INFORMATION IS STORED
 
-The current version of Daily Report is designed to store your application data locally on your device.
+The current version of Daily Report Generator is designed to store your application data locally on your device.
 
 Your projects, reports, settings, and locally referenced files may therefore be stored in files or application storage on your computer.
 
-Daily Report does not currently require an online account to use the core application.
+Daily Report Generator does not currently require an online account to use the core application.
 
 
 3. NO CLOUD STORAGE BY US
 
-The current version of Daily Report does not provide a cloud storage service operated by us for your reports, projects, images, or other application data.
+The current version of Daily Report Generator does not provide a cloud storage service operated by us for your reports, projects, images, or other application data.
 
 Data created within the application is primarily stored locally on your device.
 
@@ -54,18 +54,18 @@ Your locally stored report information is not collected by us merely because you
 
 5. INTERNET AND ONLINE SERVICES
 
-The current version of Daily Report does not require a cloud account or online server operated by us to store your reports.
+The current version of Daily Report Generator does not require a cloud account or online server operated by us to store your reports.
 
 If future versions introduce online features, such as cloud synchronization, accounts, analytics, crash reporting, online backup, or other network services, this Privacy Policy may be updated to explain what information is collected, how it is used, and how those services operate.
 
 
 6. IMAGES AND FILES
 
-Daily Report may allow you to select images or other files from your device for use in your reports.
+Daily Report Generator may allow you to select images or other files from your device for use in your reports.
 
 These files are selected by you and are used for the purpose you request, such as displaying or generating a report.
 
-Daily Report does not claim ownership of the images, documents, or other content that you add to the application.
+Daily Report Generator does not claim ownership of the images, documents, or other content that you add to the application.
 
 You are responsible for ensuring that you have the necessary rights or permissions to use any third-party content you add to your reports.
 
@@ -81,7 +81,7 @@ We strongly recommend keeping backups of important reports and files.
 
 8. DATA SECURITY
 
-We take reasonable steps in designing Daily Report to avoid unnecessary collection of personal information.
+We take reasonable steps in designing Daily Report Generator to avoid unnecessary collection of personal information.
 
 However, no software or computer storage system can be guaranteed to be completely secure.
 
@@ -90,7 +90,7 @@ You are responsible for maintaining appropriate security on your device, includi
 
 9. CHILDREN'S PRIVACY
 
-Daily Report is a general productivity application and is not specifically directed toward children.
+Daily Report Generator is a general productivity application and is not specifically directed toward children.
 
 We do not knowingly collect personal information from children through an online service.
 
@@ -99,7 +99,7 @@ Because the current version primarily stores information locally on the user's d
 
 10. THIRD-PARTY SOFTWARE
 
-Daily Report may use third-party open-source libraries and software components.
+Daily Report Generator may use third-party open-source libraries and software components.
 
 These components are used to provide application functionality and remain subject to their respective licenses.
 
@@ -108,7 +108,7 @@ Information about third-party licenses can be viewed in the Third-Party Licenses
 
 11. CHANGES TO THE APPLICATION AND THIS PRIVACY POLICY
 
-Daily Report may be updated from time to time.
+Daily Report Generator may be updated from time to time.
 
 Future versions may introduce new functionality that changes how information is handled. If a material change affects our privacy practices, this Privacy Policy may be updated accordingly.
 
@@ -119,7 +119,7 @@ The "Last Updated" date at the top of this document indicates when the policy wa
 
 Depending on applicable law and your circumstances, you may have rights regarding personal information associated with you, including rights relating to access, correction, deletion, withdrawal of consent, or complaints.
 
-Because the current version of Daily Report primarily stores information locally on your device and does not require you to submit your report data to a cloud service operated by us, you can generally manage or delete locally stored information directly through the application or your device.
+Because the current version of Daily Report Generator primarily stores information locally on your device and does not require you to submit your report data to a cloud service operated by us, you can generally manage or delete locally stored information directly through the application or your device.
 
 If you believe we have received or processed personal information relating to you and you have a privacy-related question or request, you may contact us using the contact information provided below.
 
@@ -132,14 +132,14 @@ Developer / Publisher:
 SohamArts
 
 Email:
-dailyreport.support@gmail.com
+sohamarts.support@gmail.com
 
 
 14. GOVERNING LAW
 
 This Privacy Policy shall be interpreted in accordance with applicable laws and regulations.
 
-To the extent permitted by applicable law, matters relating to this Privacy Policy and the use of Daily Report shall be subject to the laws of India.
+To the extent permitted by applicable law, matters relating to this Privacy Policy and the use of Daily Report Generator shall be subject to the laws of India.
 
 Nothing in this section is intended to limit any mandatory rights or protections available to you under applicable law.
 

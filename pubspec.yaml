@@ -65,7 +65,7 @@ msix_config:
   publisher_display_name: SohamArts
   identity_name: SohamArts.DailyReportGenerator
   publisher: CN=EE4390D8-E3AB-4A1D-883E-4F059D525329
-  msix_version: 1.0.0.0
+  msix_version: 1.0.1.0
   logo_path: assets/app_icon.png
   architecture: x64
   store: true

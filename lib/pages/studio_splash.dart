@@ -168,7 +168,7 @@ class _StudioSplahState extends State<StudioSplah>
           scale: _scaleAnimation,
           child: SizedBox.expand(
             child: Image.asset(
-              'assets/sohamarts.png',
+              'assets/splash.png',
               fit: BoxFit.cover,
             ),
           ),

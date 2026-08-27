@@ -1,14 +1,14 @@
-DAILY REPORT — SOFTWARE LICENSE
+DAILY REPORT Generator — SOFTWARE LICENSE
 
 Copyright © 2026 SohamArts. All rights reserved.
 
-Daily Report is proprietary software owned by SohamArts.
+Daily Report Generator is proprietary software owned by SohamArts.
 
-Subject to the Daily Report Terms of Use and Proprietary Software License, you are granted a limited, non-exclusive, non-transferable license to install and use the application for its intended purpose.
+Subject to the Daily Report Generator Terms of Use and Proprietary Software License, you are granted a limited, non-exclusive, non-transferable license to install and use the application for its intended purpose.
 
 You may not copy, modify, reverse engineer, decompile, disassemble, redistribute, repackage, sublicense, sell, rent, lease, or create derivative versions of the original Daily Report software except where expressly permitted by applicable law or by written permission from SohamArts.
 
-The Daily Report name, branding, logos, graphics, interface, original software, documentation, and other original materials are protected by applicable intellectual-property laws and remain the property of SohamArts.
+The Daily Report Generator name, branding, logos, graphics, interface, original software, documentation, and other original materials are protected by applicable intellectual-property laws and remain the property of SohamArts.
 
 Daily Report may contain third-party and open-source software components. Such components are governed by their respective licenses and are not necessarily covered by this proprietary license.
 
@@ -16,11 +16,11 @@ Nothing in this license is intended to restrict rights granted by applicable thi
 
 For complete terms, please refer to:
 
-- Daily Report Terms of Use
-- Daily Report Proprietary Software License
-- Daily Report Privacy Policy
-- Daily Report Disclaimer
-- Daily Report Third-Party Licenses
+- Daily Report Generator Terms of Use
+- Daily Report Generator Proprietary Software License
+- Daily Report Generator Privacy Policy
+- Daily Report Generator Disclaimer
+- Daily Report Generator Third-Party Licenses
 
 Developer / Publisher:
 SohamArts
